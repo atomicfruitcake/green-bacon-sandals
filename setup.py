@@ -9,7 +9,7 @@ setup(
     author='Sam Bass',
     author_email='sam@wirewax.com',
     url='https://github.com/atomicfruitcake/green-bacon-sandals',
-    download_url='https://github.com/atomicfruitcake/green-bacon-sandals/archive/0.1.tar.gz',
+    download_url='https://github.com/atomicfruitcake/green-bacon-sandals/archive/0.2.tar.gz',
     keywords=['google', 'images', 'bacon'],
     classifiers=[
         'Development Status :: 3 - Alpha',
