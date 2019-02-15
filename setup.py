@@ -1,7 +1,7 @@
 from setuptools import setup
 setup(
-    name='green-bacon-sandals',
-    packages=['green-bacon-sandals'],
+    name='green_bacon_sandals',
+    packages=['green_bacon_sandals'],
     version='0.1',
     description='Get random image from google images',
     long_description='We made a joke in the pub about this so I made it',
